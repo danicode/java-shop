@@ -5,9 +5,9 @@
 
 ### 🚀 Arquitectura de 3 capas:
 ```
-* **UI**: Objetos para mostrar información.
-* **Domain**: Objetos de dominio.
-* **Service**: Lógica de negocio.
+* UI: Objetos para mostrar información.
+* Domain: Objetos de dominio.
+* Service: Lógica de negocio.
 ```
 
 ### Uso de Wrappers en lugar de datos primitivos:
