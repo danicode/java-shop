@@ -3,7 +3,7 @@
 
 ## ℹ️ Consideraciones o criterios utilizados
 
-### 🚀 Arquitectura de 3 capas:
+### 🚀 Uso de 3 capas (Corrección de subtítulo post entrega):
 ```
 * UI: Objetos para mostrar información.
 * Domain: Objetos de dominio.
@@ -21,7 +21,7 @@ Aunque inicialmente tenía planeado implementar una capa DTO para transferir dat
 Interacción con la aplicación:
 
 ### Interacción con la aplicación
-Se realiza a través de un menú, donde se eligen los casos de prueba, los cuales se centran principalmente en las operaciones de la tienda: comprar y vender.
+Se realiza a través de un menú, donde se eligen los casos de prueba, los cuales se centran principalmente en las operaciones de la tienda: comprar y vender. Cada caso es aislado uno de otro (está última anotación post entrega).
 
 ### Lógica de Servicio
 La lógica de servicio se implementó únicamente para la tienda y no para los productos individuales.
